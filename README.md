@@ -28,10 +28,5 @@ I’m currently enhancing my knowledge in:
 - **LinkedIn**: [Parbat Rajpurohit](https://www.linkedin.com/in/parbat-10171418a/)
 - **Email**: rparbat97@gmail.com
 
-## ⚡ Fun Fact
-I enjoy applying data-driven solutions to real-world problems, especially in the automotive and healthcare domains.
-
----
-
 ### 🏆 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=parbatrajpurohit&show_icons=true&theme=radical)
