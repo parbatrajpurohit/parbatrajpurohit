@@ -1,7 +1,7 @@
 # Hi there, I'm Parbat Singh Rajpurohit 👋
 
 ## 🚀 About Me
-I'm a **Data Engineer and Data Analyst** with a strong focus on optimizing large-scale datasets and developing efficient data workflows. Currently, I'm pursuing my **Master of Science in Automotive Software Engineering** at **TU Chemnitz, Germany**. My passion lies in leveraging modern tools and technologies to drive data-driven solutions.
+I'm a **Data Engineer and Data Analyst** with a strong focus on optimizing large-scale datasets and developing efficient data workflows. Currently, holding my **Master of Science in Automotive Software Engineering** at **TU Chemnitz, Germany**. My passion lies in leveraging modern tools and technologies to drive data-driven solutions.
 
 ## 💻 What I Do
 - **Data Engineering**: Expertise in Apache Spark, Delta Lake, and distributed data processing.
