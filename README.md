@@ -31,4 +31,3 @@ I’m currently enhancing my knowledge in:
 ### 🏆 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parbatrajpurohit&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=parbatrajpurohit&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parbatrajpurohit&layout=compact&theme=radical)
